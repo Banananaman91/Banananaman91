@@ -1,16 +1,21 @@
-### Hi there 👋
+### The one, the probably not only, Ian Barrow
 
-<!--
-**Banananaman91/Banananaman91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an avid game developer who enjoys taking on any puzzling challenge that comes with game creation.
+Part of the fun for me is trying to find interesting solutions to problems that work best.
 
-Here are some ideas to get you started:
+As part of these challenges, I have always enjoyed exploring different areas of programming such as:
+ - Procedural Generation
+ - Physics Implementations
+ - AI Behaviour
+ - AI Pathfinding
+ - Robust Narrative Dialogue tools
+ - Game Development tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I am focused on creating my own Voxel Engine and have begun testing simulation algorithms such as Material Point Method.
+I believe game development and technology is coming to a point that these methods are suitable for high-level physics and material destruction, and voxels are a suitable application for these methods.
+
+I'm currently learning more about these areas and aim to improve my maths skills to really boost my efforts in creating an excellent voxel engine.
+
+I am also in the process of developing my own narrative exploration game collaborating with some excellent developers.
+
+Alongside these efforts, I also put a lot of time working with non-programmers to help develop tools to assist with their workflows, although so far these have been project specific efforts. However feel free to reach out to me if you are in need of robust developer tools that will make your workflow much easier in game development.
