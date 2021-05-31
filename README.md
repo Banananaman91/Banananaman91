@@ -2,6 +2,7 @@
 
 I am an avid game developer who enjoys taking on any puzzling challenge that comes with game creation.
 Part of the fun for me is trying to find interesting solutions to problems that work best.
+You can find a [playable demo of my best projects here](https://banananaman91.itch.io/graduate-portfolio)
 
 As part of these challenges, I have always enjoyed exploring different areas of programming such as:
  - Procedural Generation
