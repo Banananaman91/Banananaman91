@@ -5,11 +5,11 @@ Part of the fun for me is trying to find interesting solutions to problems that 
 You can find a [playable demo of my best projects here](https://banananaman91.itch.io/graduate-portfolio)
 
 As part of these challenges, I have always enjoyed exploring different areas of programming such as:
- - Procedural Generation
- - Physics Implementations
- - AI Behaviour
- - AI Pathfinding
- - Robust Narrative Dialogue tools
+ - ![Procedural Voxel Terrain](https://github.com/Banananaman91/UnityVoxel)
+ - ![Physics Implementations](https://github.com/Banananaman91/UnityMPM)
+ - ![Swarm AI](https://github.com/Banananaman91/ScriptableBoids)
+ - ![AI Pathfinding](https://github.com/Banananaman91/Other-Dimension/blob/development/Other%20Dimension/Assets/Scripts/PathFinding/PathFinder.cs)
+ - ![Robust Narrative Dialogue tools](https://github.com/Banananaman91/ScriptableDialogueSystem)
  - Game Development tools
 
 Currently I am focused on creating my own Voxel Engine and have begun testing simulation algorithms such as Material Point Method.
